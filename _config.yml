@@ -1,0 +1,20 @@
+title: "Joren — The JZone"
+description: "learn something. smile a little."
+url: "https://jorenbaden-prog.github.io/The-JZone"
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+
+# optional nav (we'll wire these pages later)
+navigation:
+  - title: "Projects"
+    url: /projects/
+  - title: "Notes"
+    url: /blog/
+  - title: "About"
+    url: /about/
