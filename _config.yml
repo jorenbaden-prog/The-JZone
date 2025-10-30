@@ -18,3 +18,13 @@ navigation:
     url: /blog/
   - title: "About"
     url: /about/ 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope: { path: "", type: projects }
+    values: { layout: single }
+
+# (optional) show a Projects link in the top menu via a data file we'll add next
