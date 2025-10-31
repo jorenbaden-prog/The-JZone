@@ -19,3 +19,5 @@ feature_row:
     excerpt: "who I am & what I value"
     url: "/about/"
 ---
+
+**Tagline:** learn something. smile a little.
