@@ -21,4 +21,15 @@ feature_row:
 ---
 
 **Tagline:** learn something. smile a little.
-Find me on [GitHub](https://github.com/jorenbaden-prog)
+---
+
+### Follow me on any of my socials ↓
+
+<p align="center" style="font-size: 1.8rem;">
+  <a href="https://facebook.com/joren.badendick/" target="_blank" style="margin:0 10px;"><i class="fab fa-facebook"></i></a>
+  <a href="https://www.snapchat.com/add/jbadendick9" target="_blank" style="margin:0 10px;"><i class="fab fa-snapchat"></i></a>
+  <a href="https://bere.al/jorenbaden" target="_blank" style="margin:0 10px;"><i class="fa-solid fa-camera-retro"></i></a>
+  <a href="https://letterboxd.com/jorenbaden" target="_blank" style="margin:0 10px;"><i class="fa-solid fa-film"></i></a>
+  <a href="https://linkedin.com/in/jorenbadendick" target="_blank" style="margin:0 10px;"><i class="fab fa-linkedin"></i></a>
+  <a href="https://github.com/jorenbaden-prog" target="_blank" style="margin:0 10px;"><i class="fab fa-github"></i></a>
+</p>
