@@ -21,3 +21,4 @@ feature_row:
 ---
 
 **Tagline:** learn something. smile a little.
+Find me on [GitHub](https://github.com/jorenbaden-prog)
