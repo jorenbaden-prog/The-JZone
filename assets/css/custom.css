@@ -1,0 +1,32 @@
+/* Tooltip styling for social links */
+.social-icon {
+  position: relative;
+  display: inline-block;
+  margin: 0 10px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.social-icon .tooltip {
+  visibility: hidden;
+  opacity: 0;
+  width: auto;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 8px;
+  position: absolute;
+  z-index: 1;
+  bottom: 130%; /* Position above icon */
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.3s;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.social-icon:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
