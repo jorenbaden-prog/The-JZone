@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Archives"
-permalink: /blog/
+permalink: /Archives/
 ---
 
 <ul>
