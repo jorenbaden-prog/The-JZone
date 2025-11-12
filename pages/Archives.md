@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ethics"
+title: "Archives"
 permalink: /blog/
 ---
 
