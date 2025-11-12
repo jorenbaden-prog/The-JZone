@@ -1,7 +1,7 @@
 main:
   - title: "Projects"
-    url: /projects/
-  - title: "Notes"
-    url: /blog/
+    url: /The-JZone/projects/
+  - title: "Archives"
+    url: /The-JZone/archives/
   - title: "About"
-    url: /about/
+    url: /The-JZone/about/
