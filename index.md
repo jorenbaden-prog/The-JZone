@@ -12,7 +12,7 @@ feature_row:
   - title: "projects"
     excerpt: "quick builds & case studies"
     url: "/The-JZone/projects/"
-  - title: "notes"
+  - title: "Archives"
     excerpt: "short takes on what I’m learning"
     url: "/The-JZone/blog/"
   - title: "about"
