@@ -1,7 +1,7 @@
 title: "Joren — The JZone"
 description: "learn something. smile a little."
 
-# This is your main GitHub pages URL and subfolder
+# IMPORTANT for a project site
 url: "https://jorenbaden-prog.github.io"
 baseurl: "/The-JZone"
 
@@ -13,6 +13,7 @@ plugins:
 
 markdown: kramdown
 
+# Projects collection (for /projects/)
 collections:
   projects:
     output: true
