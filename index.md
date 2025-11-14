@@ -18,6 +18,6 @@ feature_row:
   - title: "about"
     excerpt: "who I am & what I value"
     url: "/The-JZone/about/"
----
+
 
 welcome to the jzone — a place to learn something quick and leave with a smile.
