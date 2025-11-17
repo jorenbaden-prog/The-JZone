@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Imago Dei and tools"
+title: "Imago Dei and AI"
 excerpt: "How the Imago Dei Shapes My View of AI"
 tags: [article]
 ---
