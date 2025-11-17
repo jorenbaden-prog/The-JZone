@@ -11,13 +11,13 @@ intro:
 feature_row:
   - title: "projects"
     excerpt: "quick builds & case studies"
-    url: "/The-JZone/projects/"
+    url: "/projects/"
   - title: "archives"
     excerpt: "all posts in one place"
-    url: "/The-JZone/archives/"
+    url: "/archives/"
   - title: "about"
     excerpt: "who I am & what I value"
-    url: "/The-JZone/about/"
----
+    url: "/about/"
+
 
 welcome to the jzone — a place to learn something quick and leave with a smile.
