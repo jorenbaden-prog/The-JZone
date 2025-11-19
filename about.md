@@ -25,4 +25,4 @@ I’m still exploring what I want to do in life. **Entrepreneurship** has always
 
 ## Photo
 
-![Joren smiling in a suit outdoors on his wedding day.]({{ '/assets/img/joren-about.jpg' | relative_url }})
+![Joren smiling in a suit outdoors on his wedding day.]({{ '/assets/css/assets/img/joren-about.jpg' | relative_url }})
