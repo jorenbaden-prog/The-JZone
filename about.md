@@ -28,5 +28,5 @@ I’m still exploring what I want to do in life. **Entrepreneurship** has always
 <p align="center">
   <img src="{{ '/assets/img/joren-about.jpg' | relative_url }}"
        alt="Joren smiling in a suit outdoors on his wedding day."
-       style="max-width: 250px; border-radius: 8px;">
+       style="max-width: 200px; border-radius: 10px;">
 </p>
