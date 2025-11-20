@@ -26,7 +26,8 @@ I’m still exploring what I want to do in life. **Entrepreneurship** has always
 
 
 <p style="text-align:center;">
-  <img src="{{ '/The-JZone/assets/img/joren-about.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/joren-about.jpg' | relative_url }}"
        alt="Joren smiling in a suit outdoors on his wedding day."
        style="max-width: 260px; border-radius: 8px;">
 </p>
+
