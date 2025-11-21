@@ -4,7 +4,7 @@ title: "hey, i’m joren"
 tagline: "real, friendly, thoughtful & creative"
 header:
   overlay_color: "#1a2a6c"
-  overlay_filter: "0.10"
+  overlay_filter: "0.32"
   overlay_image: https://images.unsplash.com/photo-1520975922284-d2cb52271a8d?q=80&w=1200&auto=format&fit=crop
 intro:
   - excerpt: "I share simple, useful ideas — so you leave happier than you arrived."
