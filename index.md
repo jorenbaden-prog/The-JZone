@@ -4,7 +4,7 @@ title: "hey, i’m joren"
 tagline: "real, friendly, thoughtful & creative"
 header:
   overlay_color: "#1a2a6c"    # soft white overlay
-  overlay_filter: "0.25"      # light, milky transparency
+  overlay_filter: "0.35"      # light, milky transparency
   overlay_image: https://images.unsplash.com/photo-1520975922284-d2cb52271a8d?q=80&w=1200&auto=format&fit=crop
 
 intro:
