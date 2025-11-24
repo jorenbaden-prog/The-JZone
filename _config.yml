@@ -1,6 +1,8 @@
 title: "Joren — The JZone"
 description: "learn something. smile a little."
 
+logo: "/assets/css/assets/img/logo.png"
+
 # Project site configuration
 url: "https://jorenbaden-prog.github.io"
 baseurl: "/The-JZone"
