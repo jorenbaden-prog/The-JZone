@@ -5,7 +5,6 @@ excerpt: "How I use AI responsibly in a way that is Honorable"
 tags: [ethics, school]
 ---
 
-## Ethics Check #3
 
 How I primarily use AI in my work is by having it read through the given directions for an assignment or project and help organize my thoughts in a way that is clear and understandable, often by creating outlines that I can follow so I can complete my tasks well. AI has been very helpful for me to complete things better and faster, but there are still some limitations I have to be aware of and guidelines I need to put in place to use it responsibly. The first risk is that AI can summarize information incorrectly or miss details that actually matter if I do not check beforehand. The second risk is that when I have it look over work I have already done and it makes corrections like grammar, spelling, or structure, it can often sound too generic and no longer match how I normally write, which means I have to go back and redo it again in my own voice.
  
