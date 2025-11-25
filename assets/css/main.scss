@@ -4,21 +4,14 @@
 
 @import "minimal-mistakes";
 
-/* === FIX LOGO SIZE === */
+/* Make the navbar logo bigger */
 .site-logo img {
-  height: 100px !important;
+  height: 100px !important;    /* try 100px for now */
+  max-height: none !important;
   width: auto;
 }
 
-/* === FORCE LOGO TO LEFT SIDE === */
-.masthead__inner-wrap {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: flex-start !important; /* moves logo fully left */
-  gap: 1rem; /* small spacing between logo and nav items */
-}
-
-/* === HIDE SITE TITLE TEXT NEXT TO LOGO === */
+/* Hide the site title text next to the logo */
 .site-title {
   display: none !important;
 }
