@@ -16,28 +16,4 @@
   display: none !important;
 }
  
-/* === DIFFERENT NAVBAR COLORS PER PAGE === */
 
-/* Projects navbar color */
-.projects-nav .masthead {
-  background-color: #0D132F !important;   /* dark blue */
-}
-.projects-nav .masthead__menu a {
-  color: #0D132F !important;
-}
-
-/* Archives navbar color */
-.archives-nav .masthead {
-  background-color: #0D132F !important;   /* deep green */
-}
-.archives-nav .masthead__menu a {
-  color: #0D132F !important;
-}
-
-/* About navbar color */
-.about-nav .masthead {
-  background-color: #0D132F !important;   /* rich red */
-}
-.about-nav .masthead__menu a {
-  color: #0D132F !important;
-}
