@@ -10,13 +10,13 @@ header:
 
 ## The Goal
 
-*[A text section explaining the challenge: To explain the concept of 'Justification' to 12-year-olds without using academic jargon.]*
+The primary objective is to translate the systematic theological doctrine of 'Justification' into a relatable narrative for a Junior High audience (ages 11-13). The challenge is to maintain doctrinal accuracy regarding the 'legal' nature of salvation while stripping away alienating academic jargon, ensuring the concept lands as good news rather than a lecture.
 
 ---
 
 ## The Baseline (Academic Definition)
 
-*[A section showing the standard textbook definition (complex).]*
+Justification is the forensic declaration by God wherein a sinner is granted a righteous legal standing before the divine tribunal, not based on inherent merit but solely through the instrument of faith. This judicial act involves the double imputation of the sinner’s guilt to Christ and Christ’s active and passive righteousness to the believer.
 
 ---
 
