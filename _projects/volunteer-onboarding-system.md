@@ -7,7 +7,9 @@ header:
 
 ## HR Strategy
 
-*[Brief explanation of why clear role definitions reduce volunteer burnout (Business Admin application).]*
+One of the primary drivers of volunteer burnout in ministry is **role ambiguity**—the stress caused when an individual is unsure of their responsibilities or the expectations placed upon them. When we fail to provide clear boundaries, we inadvertently burden our volunteers with the emotional weight of "guessing" what success looks like. This leads to fatigue, frustration, and ultimately, a decline in volunteer **retention**.
+
+Implementing structured job descriptions is not about imposing corporate bureaucracy on the church; it is about stewardship. By defining clear deliverables, time commitments, and reporting lines, we remove the friction of uncertainty. This allows volunteers to serve with confidence and clarity, knowing exactly how their contribution supports the mission. A robust HR strategy that prioritizes role clarity is essential for sustaining a healthy, long-term volunteer culture. We protect our people by being precise.
 
 ---
 
