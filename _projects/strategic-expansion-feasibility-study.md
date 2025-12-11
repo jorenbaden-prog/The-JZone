@@ -33,7 +33,12 @@ header:
 
 ## Risk Assessment Matrix
 
-*[A table evaluating potential risks (financial, zoning, congregation fatigue).]*
+| Risk Category | Probability | Impact | Mitigation Strategy |
+| :--- | :--- | :--- | :--- |
+| **Construction Cost Overruns** | High | High | Secure a Guaranteed Maximum Price (GMP) contract; Maintain a strict 10-15% contingency fund. |
+| **Zoning / Permit Delays** | Medium | Medium | Early engagement with city planners; Retain experienced land-use counsel before finalizing designs. |
+| **Decline in Giving (Operating)** | Medium | High | Separate Capital Campaign from Operating Budget; Clear communication on the need to sustain current ministry. |
+| **Staff Burnout** | Medium | Medium | Hire an external Owner’s Representative to manage construction; Protect pastoral staff from daily build management. |
 
 ---
 
