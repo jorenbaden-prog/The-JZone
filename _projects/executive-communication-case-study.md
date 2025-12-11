@@ -47,4 +47,5 @@ Joren Badendick
 
 ## Analysis
 
-*[A brief note on why the second version is better (e.g., 'Passive Voice vs. Active Voice', 'Empathy statements').]*
+*   **Preserving the Relationship:** Draft 2 separates the *person* from the *policy*. By starting with gratitude ("incredibly grateful for your partnership") and validating their success ("congratulations"), we affirm their value to the church before delivering the "no." This prevents the rejection of the request from feeling like a rejection of the relationship.
+*   **Mission Alignment:** Instead of using the bylaws as a shield ("it's against the rules"), Draft 2 explains the *theological purpose* behind the policy ("integrity," "stumbling block"). This shifts the conversation from bureaucratic enforcement to shared missional values, inviting the donor to partner with us in upholding the church's witness.
