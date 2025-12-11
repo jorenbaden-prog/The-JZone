@@ -22,7 +22,11 @@ Justification is the forensic declaration by God wherein a sinner is granted a r
 
 ## The Adapted Voice (Youth Group Talk)
 
-*[The rewritten version using metaphors, simple language, and high energy.]*
+"Okay, imagine you’re in the hardest class in the world. It’s totally impossible to pass. No matter how hard you try, you keep messing up. You look at your report card, and it’s a disaster—straight F’s. You know you’re gonna get expelled.
+
+But then, Jesus walks into the principal’s office. He has a report card too, but His is perfect—straight A+’s. He’s never missed a single question. And then, He does something totally crazy. He takes your failing report card with your name on it, and He hands you His perfect report card.
+
+When God looks at your record now, He doesn't see your F's. He sees Jesus’s A+’s. You didn’t earn it. You didn’t study for it. But because of Jesus, you pass with a perfect score. That’s what it means to be right with God—you get the grade only Jesus could earn!"
 
 ---
 
