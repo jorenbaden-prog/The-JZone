@@ -54,4 +54,11 @@ The AI helped format the 'Run of Show' schedule, ensuring a smooth flow for the 
 
 Draft social media invites generated to engage the community.
 
-> **[Placeholder: Paste draft text or insert social media image/screenshot here]**
+### 📘 Facebook (Family Focus)
+"Start a beautiful new tradition with your family this Christmas Eve. Join us for a warm, peaceful **Candlelight Service** filled with carols, hope, and the light of Christ. 🕯️ We can't wait to celebrate with you! **5:00 PM**."
+
+### 📸 Instagram / Text (Visual & Short)
+"✨ Christmas Eve is almost here! ✨ Join us at 5pm for carols + candlelight. 🎶🕯️ Bring the whole fam! #ChristmasEve #CandlelightService #Hope"
+
+### 📧 Email Blurb (Newsletter)
+"Don't forget to join us this evening at 5:00 PM for our special Christmas Eve Candlelight Service. We look forward to celebrating the birth of our Savior with you and your family!"
