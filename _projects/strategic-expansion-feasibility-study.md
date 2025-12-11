@@ -7,7 +7,9 @@ header:
 
 ## Project Vision
 
-*[A text section explaining the goal (constructing a new facility on existing property) and the ministry need.]*
+We stand at a unique intersection of stewardship and opportunity. God has already provided the land—a debt-free asset that serves as the foundation for our future. However, our current facilities limit our reach. While we gather effectively on Sundays, our lack of dedicated space restricts our ability to serve our community throughout the week. We are turning away ministry opportunities simply because we have nowhere to house them.
+
+The vision is to construct a new, multi-purpose facility on our existing property. This is not about building a monument, but about breaking limits. By expanding our physical footprint, we unlock space for mid-week discipleship, community outreach, and the next generation. We are preparing the ground for the harvest we believe is coming, moving forward with strategic wisdom and expectant faith.
 
 ---
 
