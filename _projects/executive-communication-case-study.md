@@ -13,13 +13,35 @@ A prominent local business owner, who is also a significant donor to the church,
 
 ## The 'Rough Draft' (The Human Reaction)
 
-*[A section showing a blunt, stressed-out draft email that I wrote first.]*
+**Subject:** Venue Request
+
+Hi [Name],
+
+I saw your request for next Saturday. We can’t approve it because you want to serve alcohol. Our bylaws strictly say no alcohol is allowed on church property, so that’s a hard no. You can still rent the room if you want but the alcohol has to go.
+
+Let me know what you want to do I have a lot of other requests coming in for that date.
+
+Thanks,
+Joren
 
 ---
 
 ## The AI Refinement (The Pastoral Response)
 
-*[A section showing the final, polished email that declines the request but maintains the relationship.]*
+**Subject:** Launch Party Request & Next Steps
+
+Dear [Name],
+
+Thank you so much for reaching out, and congratulations on the upcoming launch! We are incredibly grateful for your continued generosity and partnership with our church—it truly means a lot to us to see your business grow.
+
+Regarding your request to host the launch party in the Sanctuary next Saturday, we would love to host you, but I do need to address the catering plan. Our church bylaws maintain a strict alcohol-free policy for all events on the premises. This policy is in place to maintain integrity and ensure we are never a stumbling block to anyone in our community who may be struggling.
+
+We would still be honored to host the event if we can move forward with a food-only catering plan. Alternatively, if alcohol is essential for the celebration, I completely understand if you need to look at other venues.
+
+Let me know what works best for you! We value you highly and want to support you however we can.
+
+Warmly,
+Joren Badendick
 
 ---
 
