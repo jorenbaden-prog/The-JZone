@@ -16,7 +16,19 @@ The goal was to streamline the planning for an annual service while maintaining 
 
 Below is a sample of the AI-generated Responsive Reading / Theme used for the service.
 
-> **[Placeholder: Paste your AI-generated text here]**
+> **Leader:** The people walking in darkness have seen a great light; on those living in the land of deep darkness, a light has dawned.
+>
+> **Congregation:** For to us a child is born, to us a son is given, and the government will be on his shoulders.
+>
+> **Leader:** But the angel said, "Do not be afraid. I bring you good news that will cause great joy for all the people."
+>
+> **Congregation:** Today in the town of David a Savior has been born to you; he is the Messiah, the Lord.
+>
+> **Leader:** The zeal of the Lord Almighty has accomplished this; the ancient promise is kept this holy night.
+>
+> **Congregation:** Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.
+>
+> **All:** Come, let us go to Bethlehem and worship the Newborn King!
 
 ---
 
