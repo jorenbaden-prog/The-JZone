@@ -1,6 +1,9 @@
 ---
 title: "Christmas Eve Service Coordination"
 excerpt: "Integrating Generative AI into Ministry Operations & Liturgy."
+toc: true
+toc_sticky: true
+toc_label: "Jump to Section"
 header:
   # Placeholder for a header image if desired
   # overlay_image: /The-JZone/assets/images/christmas-service/header.jpg

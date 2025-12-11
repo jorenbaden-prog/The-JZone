@@ -1,6 +1,9 @@
 ---
 title: "Strategic Expansion Feasibility Study"
 excerpt: "A data-driven analysis for a proposed church building project."
+toc: true
+toc_sticky: true
+toc_label: "Jump to Section"
 header:
   # Placeholder for header image
 ---

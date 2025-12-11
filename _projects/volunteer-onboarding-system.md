@@ -1,6 +1,9 @@
 ---
 title: "Volunteer Onboarding System"
 excerpt: "A structured HR framework for ministry volunteers."
+toc: true
+toc_sticky: true
+toc_label: "Jump to Section"
 header:
   # Placeholder for header image
 ---
