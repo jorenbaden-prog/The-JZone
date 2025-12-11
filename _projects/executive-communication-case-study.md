@@ -7,7 +7,7 @@ header:
 
 ## The Scenario
 
-*[A text section explaining the situation: A long-time donor wants to rent the Fellowship Hall for a private event on a Saturday, but the Youth Ministry already has it booked.]*
+A prominent local business owner, who is also a significant donor to the church, has requested to book the Main Sanctuary for a business launch party next Saturday. The critical issue is that the donor plans to cater alcohol for the event, which is strictly prohibited by the church's bylaws regarding alcohol on the premises. The challenge is to uphold the church's policy and decline this specific request without offending the donor or damaging a valued relationship.
 
 ---
 
