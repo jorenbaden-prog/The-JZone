@@ -32,4 +32,6 @@ When God looks at your record now, He doesn't see your F's. He sees Jesus’s A+
 
 ## Calibration Analysis
 
-*[A bulleted list explaining exactly what I changed (e.g., 'Removed passive voice,' 'Swapped righteousness for clean slate').]*
+*   **Vocabulary Shift:** Replaced high-register theological terms like "forensic," "tribunal," and "imputation" with concrete, age-appropriate language like "principal's office," "messing up," and "getting a grade."
+*   **Sentence Structure:** Moved from complex, passive-voice sentences ("is granted," "involves the double imputation") to short, active, punchy sentences ("Jesus walks in," "He takes your card," "He hands you His").
+*   **Analogy as Bridge:** Utilized the "Report Card Swap" metaphor to concretize the abstract legal concept of Justification, allowing the audience to feel the emotional relief of the doctrine rather than just memorizing the definition.
