@@ -64,4 +64,17 @@ The Lead Greeter serves as the "first face" of the church, creating a welcoming,
 
 ## Training Module: Conflict Resolution
 
-*[A 'Conflict Resolution Script' for handling a difficult visitor.]*
+### Scenario: Main Sanctuary at Capacity
+**The Situation:** A visitor arrives late and is upset that they cannot enter the main sanctuary and must go to the Overflow Room.
+
+**The Goal:** De-escalate the anger without compromising fire codes or safety regulations. Validate their disappointment while offering a hospitable solution.
+
+| Don't Say ❌ | Do Say ✅ |
+| :--- | :--- |
+| "You can't go in there, it's full." | "I am so sorry, but the main sanctuary has actually reached full capacity right now." |
+| "It's a fire hazard, so you have to move." | "To keep everyone safe, we have to keep the room within capacity laws. I appreciate you helping us with that." |
+| "I don't make the rules, I just enforce them." | "I completely understand it's disappointing. I wish I could get you a seat in there, but my priority has to be safety." |
+| "Just go to the overflow room." | "We have a comfortable spot open in the Overflow Room with a live feed. I can walk you over there right now." |
+
+**Key De-escalation Principle:** **Validate first, then redirect.**
+Instead of starting with "No," starts with "I understand." This lowers defenses and turns you from an "enforcer" into a "helper."
