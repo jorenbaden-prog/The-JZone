@@ -36,16 +36,17 @@ Below is a sample of the AI-generated Responsive Reading / Theme used for the se
 
 The AI helped format the 'Run of Show' schedule, ensuring a smooth flow for the service.
 
-![Run of Show Placeholder](https://placehold.co/600x400?text=Run+of+Show+Screenshot+Here)
-*Caption: Operational flow draft.*
-
-<!-- Optional: You can also use a table if you prefer -->
-<!--
-| Time | Item | Person | Notes |
-|---|---|---|---|
-| 5:00 PM | Prelude | Band | Soft background music |
-| 5:05 PM | Welcome | Pastor | |
--->
+| Time | Duration | Item | Person Responsible | Tech/Lighting Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **5:00 PM** | 5 mins | Welcome & Opening Prayer | Associate Pastor | House Lights 70%, Warm Spot on Speaker. |
+| **5:05 PM** | 5 mins | First Carol: *O Come All Ye Faithful* | Led by DC | Full Stage Wash (Festive/Gold). House 60%. |
+| **5:10 PM** | 5 mins | Responsive Reading (*Prophecy Fulfilled*) | Pastor & Congregation | **House Lights UP (80%)** for reading. |
+| **5:15 PM** | 5 mins | Special Music | Soloists: Gene, Brooklyn | Spot on Soloists only. Deep Blue/Purple wash. |
+| **5:20 PM** | 15 mins | Sermon (Short Homily) | Sr. Pastor Nick | Focus on Pulpit. House Dim (40%). |
+| **5:35 PM** | 5 mins | Lighting of the Candles (Instruction) | Pastor Nick | **Begin Fade to Dark**. Key light on Pastor only. |
+| **5:40 PM** | 10 mins | Song: *Silent Night* | Led by Amy | **CANDLELIGHT ONLY**. Stage dark / Tree accent. |
+| **5:50 PM** | 5 mins | Benediction (*The Lord's Prayer*) | Pastor Nick | Maintain Candlelight. Soft wash on Cross. |
+| **5:55 PM** | 5 mins | Dismissal / Postlude | Band | Slowly Fade House Lights Up to 50%. |
 
 ---
 
