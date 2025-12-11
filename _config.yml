@@ -23,6 +23,19 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: projects
     values:
-      layout: single
+      layout: "single"
+      author_profile: true
+
+author:
+  name: "Joren Badendick"
+  avatar: "/assets/css/assets/img/joren-about.jpg"
+  bio: "Business student at Trinity Bible College. Lover of music, cars, and serving others."
+  location: "Ellendale, ND"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jorenbadendick@trinitybiblecollege.edu"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/joren.badendick"

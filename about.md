@@ -3,6 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 classes: about-nav
+author_profile: false
 ---
 
 ## About Me
