@@ -44,4 +44,8 @@ header:
 
 ## Missional Impact
 
-*[A section estimating the spiritual ROI (Return on Investment) of the new space.]*
+The true value of this expansion is not found in square footage, but in spiritual fruit. We are not simply building a larger auditorium to hold a crowd; we are constructing a dedicated tool for discipleship.
+
+A building is a missional outpost. By creating dedicated classrooms for our children and youth, we move beyond childcare to intentional spiritual formation, investing in the next generation of Kingdom leaders. By designing a lobby that fosters connection rather than congestion, we create a space for radical hospitality where relationships can take root.
+
+This project is a direct response to the Great Commission. To "make disciples" effectively, we need environments that facilitate teaching, community, and care. The Return on Investment (ROI) for this project will not be measured in dollars, but in lives transformed, marriages restored, and a community served in the name of Jesus.
