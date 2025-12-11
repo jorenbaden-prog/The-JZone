@@ -2,7 +2,7 @@
 title: "Historical Poster Design"
 excerpt: "A workflow demonstration using AI tools to create a historical style poster."
 header:
-  overlay_image: /assets/images/historical-poster/final-composition.jpg
+  overlay_image: /assets/images/historical-poster/final-composition.png
   caption: "Generated with Midjourney"
 ---
 
@@ -38,6 +38,6 @@ Here are the raw clipart images generated for the composition.
 The final assembled poster design.
 
 <figure class="align-center">
-  <img src="/assets/images/historical-poster/final-composition.jpg" alt="Final Historical Poster Design">
+  <img src="/assets/images/historical-poster/final-composition.png" alt="Final Historical Poster Design">
   <figcaption>Final Composition</figcaption>
 </figure>
