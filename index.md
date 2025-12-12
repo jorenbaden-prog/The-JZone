@@ -10,17 +10,24 @@ header:
 intro:
   - excerpt: "I share simple, useful ideas — so you leave happier than you arrived."
 feature_row:
-  - title: "projects"
-    excerpt: "quick builds & case studies"
+  - title: "<i class='fas fa-laptop-code'></i> Projects"
+    excerpt: "Quick builds, case studies, and experiments."
     url: "/projects/"
-  - title: "archives"
-    excerpt: "all posts in one place"
+    btn_label: "Explore Work"
+    btn_class: "btn--primary"
+  - title: "<i class='fas fa-archive'></i> Archives"
+    excerpt: "All my posts and articles in one place."
     url: "/archives/"
-  - title: "about"
-    excerpt: "who I am & what I value"
+    btn_label: "Read Blog"
+    btn_class: "btn--info"
+  - title: "<i class='fas fa-user'></i> About"
+    excerpt: "Who I am, what I value, and where I'm going."
     url: "/about/"
+    btn_label: "Meet Joren"
+    btn_class: "btn--inverse"
 ---
 
-**You made it! Welcome to the JZone**
+<h2 style="text-align: center;">You made it! Welcome to The JZone.</h2>
+<p style="text-align: center; color: #666;"><em>Grab a coffee, look around, and learn something new.</em></p>
 
 {% include feature_row id="intro" type="left" %}
