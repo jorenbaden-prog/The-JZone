@@ -23,4 +23,4 @@ feature_row:
 
 **You made it! Welcome to the JZone**
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
