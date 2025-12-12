@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Imago Dei and AI"
+categories: [Ethics]
 excerpt: "How the Imago Dei Shapes My View of AI"
 tags: [article]
 ---

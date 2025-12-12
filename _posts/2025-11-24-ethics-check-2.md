@@ -1,6 +1,8 @@
+```
 ---
 layout: single
 title: "Truth and Accuracy in AI"
+categories: [Ethics]
 excerpt: "How I use AI responsibly in a way that is Honorable"
 tags: [ethics, school]
 ---

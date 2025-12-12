@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "welcome — what this site is about"
+categories: [General]
 tags: [intro]
 ---
 
