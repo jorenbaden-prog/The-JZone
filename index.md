@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "hey, i’m joren"
+title: "Hey, I’m Joren"
 tagline: "real, friendly, thoughtful & creative"
 header:
   overlay_color: "#1a2a6c"    # soft white overlay
@@ -22,3 +22,7 @@ feature_row:
 ---
 
 **You made it! Welcome to the JZone**
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
