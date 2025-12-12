@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hey, I’m Joren"
-tagline: "real, friendly, thoughtful & creative"
+tagline: "Authentic leadership driven by thoughtful creativity."
 header:
   overlay_color: "#1a2a6c"    # soft white overlay
   overlay_filter: "0.55"      # light, milky transparency
