@@ -1,4 +1,3 @@
-```
 ---
 layout: single
 title: "Truth and Accuracy in AI"
