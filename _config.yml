@@ -29,6 +29,7 @@ defaults:
 
 author:
   name: "Joren Badendick"
+  home: "/about/"
   avatar: "/assets/css/assets/img/joren-about.jpg"
   bio: "Business student at Trinity Bible College. Lover of music, cars, and serving others."
   location: "Ellendale, ND"
