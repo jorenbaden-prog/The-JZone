@@ -27,7 +27,9 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<h2 style="text-align: center;">You made it! Welcome to The JZone.</h2>
-<p style="text-align: center; color: #666;"><em>Grab a coffee, look around, and learn something new.</em></p>
+<h2 style="text-align: left;">You made it! Welcome to The JZone.</h2>
+<p style="text-align: left; color: #666;"><em>Grab a coffee, look around, and learn something new.</em></p>
 
 {% include feature_row id="intro" type="left" %}
+
+{% include feature_row %}
