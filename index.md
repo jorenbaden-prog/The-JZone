@@ -21,4 +21,4 @@ feature_row:
     url: "/about/"
 ---
 
-welcome to the jzone — a place to learn something quick and leave with a smile.
+**You made it! Welcome to the JZone**
