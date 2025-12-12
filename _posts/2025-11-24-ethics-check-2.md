@@ -2,7 +2,7 @@
 layout: single
 title: "Truth and Accuracy in AI"
 excerpt: "How I use AI responsibly in a way that is Honorable"
-tags: ethics
+tags: Ethics
 ---
 
 
