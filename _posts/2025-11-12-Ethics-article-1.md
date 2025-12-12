@@ -2,7 +2,7 @@
 layout: single
 title: "Imago Dei and AI"
 excerpt: "How the Imago Dei Shapes My View of AI"
-tags: [article]
+tags: Ethics
 ---
 
 Being made in the image of God means that we are created as unique beings who reflect pieces of who He is through our body, mind, and spirit. Because we carry the Imago Dei, every part of us is meant to resemble the character of God and display aspects of His nature in the way we think, create, and live. When I think about the use of AI in regards to this, I view it as a tool that is to be used to expound upon our creativity. They are extensions of the creativity He has already placed within us. AI can be incredibly helpful in many areas of life, and its purpose is to assist us in building on the abilities God has given us.
